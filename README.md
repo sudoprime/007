@@ -1,6 +1,6 @@
 # 007
 
-An openAI gym agent that slays like bond himself.
+An openAI gym agent.
 
 ### Instructions
 
@@ -32,5 +32,4 @@ up learning.
 
 This initial cut uses epsilon-decreasing action-selection, but convergence is
 proving difficult on the MountainCar problem. We will need to more intelligently
-search the state-space in order to overcome that problem (without cheating like
-using the state tensor as a reward).
+search the state-space in order to overcome that problem
